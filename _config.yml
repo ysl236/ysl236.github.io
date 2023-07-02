@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: YS AI LAB
 # description: This will be meta HTML tag content. This can be ignored.
-description: Our goal is popularization of AI
+description: 
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://ysl236.github.io/"
@@ -14,7 +14,7 @@ baseurl: "https://ysl236.github.io/"
 username: YS AI LAB
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: 
+typing_text: Our goal is popularization of AI
 # email: Your E-Mail address for the email button.
 email: ysl236@yonsei.ac.kr
 # For every social button you want to display, set your username or userid
