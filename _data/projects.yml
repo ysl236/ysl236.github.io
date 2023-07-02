@@ -17,17 +17,17 @@
   descr: "Introduce tools based on AI for reducing inequality of information to public" 
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: chatGPT
+    - tag: StableDiffusion 
+    - tag: Plugins
 
 - name: Guidelines about basic AI technology 
   descr: "Including DL(Deep Learning), RL(Reinforcement Learning), CV(Computer Vision), NLP(Natural Language Processing)"
   demo: https://example.com/
   tags:
-    - tag: Python
-    - tag: Django
-
+    - tag: Deep Learning
+    - tag: Reinforcement Learning
+    - tag: Computer Vision
+    - tag: Natural Language Processing 
 - name: Interactions and Emergence between AI technology  
   descr: "Containing ChatGPT, StableDiffusion, many other Plugins"
