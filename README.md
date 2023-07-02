@@ -1,7 +1,7 @@
-# Neumorphism <!-- omit in toc -->
+# YS AI LAB <!-- omit in toc -->
 
-> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
-
+> YS AI LAB exists to reduce the gap between expert and public 
+<!-- 
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
 * Featured on [Jekyll Themes](https://jekyll-themes.com/neumorphism/)
 * Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
@@ -10,7 +10,7 @@
 [![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
 <a href="https://jekyll-themes.com">
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+</a> -->
 
 [View Demo](https://longpdo.github.io/neumorphism/) · [Report Bug](https://github.com/longpdo/neumorphism/issues) · [Request Feature](https://github.com/longpdo/neumorphism/issues)
 
